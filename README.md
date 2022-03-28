@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PrinceForcebolt
 - 👀 I’m interested in learning new Technologies and problem solving.
-- 🌱 I’m currently learning NodeJs.
+- 🌱 I’m currently learning NodeJs and Angular
 - 💞️ I’m looking to collaborate on building project that solve some problem that currently face by peoples.
 - 📫 How to reach me :- just mail me on princegarg@forcebolt.com
 
